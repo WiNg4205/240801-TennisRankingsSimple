@@ -1,4 +1,4 @@
-# 240901 - TennisRankingsUnstyled
+# 01/09/24 - TennisRankingsUnstyled
 This is the unstyled version of the Men's Singles ATP Rankings.
 
 This is my first time trying the vue cdn. It is a little disappointing to not be able to write with the simple template syntax. I did a bit of reading and I think it is something to do with the browser can only being able to interpret .js files (not .vue files). Even so, I do like the idea of a very small repository with a couple of files with the CDN and I think I will do most of my miniprojects like this. 
